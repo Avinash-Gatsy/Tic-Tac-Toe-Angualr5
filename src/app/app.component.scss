@@ -1,0 +1,23 @@
+.container {
+    margin: 0 auto;
+    width: 300px;
+
+}
+h1{
+    font-family: monospace;
+}
+.status {
+    color: forestgreen;
+    margin-bottom: 16px;
+    font-size: 24px;
+    letter-spacing: 1.5px;
+}
+.statusFinished {
+    color: #ffa9a9
+}
+mat-grid-tile {
+    background: lightblue;
+  }
+button{
+    margin-top: 20px;
+}
